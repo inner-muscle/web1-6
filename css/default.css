@@ -86,6 +86,17 @@ tfoot td{
   border-collapse: collapse;
 }
 
-th, td{
+td{
+  border: 1px solid lightcoral;
+  background-color: mistyrose;
+  padding: 5px;
+  width: 100ps;
+  text-align: center;
+}
+
+th{
   border: 1px solid lightsolid;
+  padding: 5px;
+  width: 80ps;
+  text-align: center;
 }
