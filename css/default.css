@@ -47,3 +47,25 @@ dt{
   background-color:lightcoral;
 }
 
+caption{
+  padding: 5px;
+}
+
+#price{
+  background-color:lightyellow;
+}
+
+thead th,tfloot th{
+  background-color: white;
+}
+
+thead td{
+  color:white;
+  background-color:lightcoral;
+  text-align: center;
+}
+
+tfloot td{
+  font-weight: bold;
+  background-color:white;
+}
