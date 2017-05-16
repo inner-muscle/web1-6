@@ -33,7 +33,7 @@ dt{
 
 .btn{
   -webkit-appearance: none;
-  -webkit-border-radius 0:
+  -webkit-border-radius: 0;
   margin: 5px;
   width: 100px;
   height: 40px;
@@ -90,13 +90,13 @@ td{
   border: 1px solid lightcoral;
   background-color: mistyrose;
   padding: 5px;
-  width: 100ps;
+  width: 100px;
   text-align: center;
 }
 
 th{
-  border: 1px solid lightsolid;
+  border: 1px solid lightcoral;
   padding: 5px;
-  width: 80ps;
+  width: 80px;
   text-align: center;
 }
