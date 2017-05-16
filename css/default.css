@@ -33,7 +33,7 @@ dt{
 
 .btn{
   -webkit-appearance: none;
-  -webkit-border-radius 0px;
+  -webkit-border-radius: 0;
   margin: 5px;
   width: 100px;
   height: 40px;
